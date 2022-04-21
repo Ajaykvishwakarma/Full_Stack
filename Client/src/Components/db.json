@@ -1,0 +1,527 @@
+[
+    {
+        "type": "owner",
+        "block": "XL",
+        "no": 1992,
+        "residents": [
+            {
+                "name": "Meredith",
+                "gender": "Female",
+                "age": 10
+            },
+            {
+                "name": "Hewitt",
+                "gender": "Male",
+                "age": 20
+            },
+            {
+                "name": "Reynold",
+                "gender": "Male",
+                "age": 30
+            }
+        ]
+    },
+    {
+        "type": "owner",
+        "block": "S",
+        "no": 2004,
+        "residents": [
+            {
+                "name": "Alexio",
+                "gender": "Male",
+                "age": 40
+            },
+    {
+                "name": "Stearn",
+                "gender": "Male",
+                "age": 50
+            },
+    {
+                "name": "Garrick",
+                "gender": "Male",
+                "age": 60
+            }
+        ]
+    },
+    {
+        "type":"owner",
+        "block": "3XL",
+        "no": 1996,
+        "residents": [
+            {
+                "name": "Kaitlynn",
+                "gender": "Female",
+                "age": 7
+            },
+            {
+                "name": "Arleta",
+                "gender": "Female",
+                "age": 8
+            },
+            {
+                "name": "Anabal",
+                "gender": "Female",
+                "age": 9
+            }
+        ]
+    },
+    {"type":"owner",
+        "block": "XS",
+        "no": 2008,
+        "residents": [
+            {
+                "name": "Yovonnda",
+                "gender": "Female",
+                "age": 10
+            },
+            {
+                "name": "Wilie",
+                "gender": "Female",
+                "age": 11
+            },
+            {
+                "name": "Scott",
+                "gender": "Male",
+                "age": 12
+            }
+        ]
+    },
+    {
+        "type":"owner",
+        "block": "XL",
+        "no": 1992,
+        "residents": [
+            {
+                "name": "Louise",
+                "gender": "Female",
+                "age": 13
+            },
+            {
+                "name": "Winny",
+                "gender": "Male",
+                "age": 14
+            },
+            {
+                "name": "Frederica",
+                "gender": "Female",
+                "age": 15
+            }
+        ]
+    },
+    {
+        "type": "owner",
+        "block": "M",
+        "no": 2007,
+        "residents": [
+            {
+                "name": "Currie",
+                "gender": "Male",
+                "age": 16
+            },
+            {
+                "name": "Theodoric",
+                "gender": "Male",
+                "age": 17
+            },
+            {
+                "name": "Jed",
+                "gender": "Male",
+                "age": 18
+            }
+        ]
+    },
+    {
+        "type":"owner",
+        "block": "XS",
+        "no": 2006,
+        "residents": [
+            {
+                "name": "Hurley",
+                "gender": "Male",
+                "age": 19
+            },
+            {
+                "name": "Elizabeth",
+                "gender": "Female",
+                "age": 20
+            }
+        ]
+    },
+    {
+        "type":"owner",
+        "block": "M",
+        "no": 1963,
+        "residents": [
+            {
+                "name": "Laurie",
+                "gender": "Male",
+                "age": 21
+            },
+            {
+                "name": "Ranee",
+                "gender": "Female",
+                "age": 22
+            },
+            {
+                "name": "Ichabod",
+                "gender": "Male",
+                "age": 23
+            }
+        ]
+    },
+    {
+        "type":"owner",
+        "block": "L",
+        "no": 1998,
+        "residents": [
+            {
+                "name": "Inge",
+                "gender": "Female",
+                "age": 24
+            },
+            {
+                "name": "Gilli",
+                "gender": "Female",
+                "age": 25
+            },
+            {
+                "name": "Ric",
+                "gender": "Male",
+                "age": 26
+            }
+        ]
+    },
+    {
+        "type":"owner",
+        "block": "S",
+        "no": 2007,
+        "residents": [
+            {
+                "name": "Kassey",
+                "gender": "Female",
+                "age": 27
+            }
+        ]
+    },
+    {
+        "type":"owner",
+        "block": "2XL",
+        "no": 2005,
+        "residents": [
+            {
+                "name": "Ari",
+                "gender": "Male",
+                "age": 28
+            },
+            {
+                "name": "Inge",
+                "gender": "Female",
+                "age": 29
+            },
+            {
+                "name": "Reggi",
+                "gender": "Female",
+                "age": 30
+            },
+            {
+                "name": "Bevin",
+                "gender": "Male",
+                "age": 31
+            }
+        ]
+    },
+    {
+        "type": "owner",
+        "block": "M",
+        "no": 2001,
+        "residents": [
+            {
+                "name": "Kristina",
+                "gender": "Female",
+                "age": 32
+            },
+            {
+                "name": "Yurik",
+                "gender": "Male",
+                "age": 33
+            },
+            {
+                "name": "Ray",
+                "gender": "Male",
+                "age": 34
+            }
+        ]
+    },
+    {
+        "type":"owner",
+        "block": "XS",
+        "no": 2007,
+        "residents": [
+            {
+                "name": "Ursula",
+                "gender": "Female",
+                "age": 35
+            },
+            {
+                "name": "Darnell",
+                "gender": "Male",
+                "age": 36
+            },
+            {
+                "name": "Penrod",
+                "gender": "Male",
+                "age": 37
+            }
+        ]
+    },
+    {
+        "type": "owner",
+        "block": "S",
+        "no": 2002,
+        "residents": [
+            {
+                "name": "Jean",
+                "gender": "Female",
+                "age": 38
+            },
+            {
+                "name": "Carey",
+                "gender": "Male",
+                "age": 39
+            },
+            {
+                "name": "Bjorn",
+                "gender": "Male",
+                "age": 40
+            }
+        ]
+    },
+    {
+        "type": "owner",
+        "block": "XL",
+        "no": 1990,
+        "residents": [
+            {
+                "name": "Efren",
+                "gender": "Male",
+                "age": 41
+            },
+            {
+                "name": "Liv",
+                "gender": "Female",
+                "age": 42
+            },
+            {
+                "name": "Trisha",
+                "gender": "Female",
+                "age": 43
+            },
+            {
+                "name": "Joycelin",
+                "gender": "Female",
+                "age": 44
+            }
+        ]
+    },
+    {
+        "type":"owner",
+        "block": "M",
+        "no": 2001,
+        "residents": [
+            {
+                "name": "Jon",
+                "gender": "Male",
+                "age": 45
+            }
+        ]
+    },
+    {
+        "type": "tenant",
+        "block": "3XL",
+        "no": 1988,
+        "residents": [
+            {
+                "name": "Wendye",
+                "gender": "Female",
+                "age": 46
+            },
+            {
+                "name": "Julian",
+                "gender": "Male",
+                "age": 47
+            },
+            {
+                "name": "Skipton",
+                "gender": "Male",
+                "age": 48
+            }
+        ]
+    },
+    {
+        "type": "tenant",
+        "block": "XS",
+        "no": 2012,
+        "residents": [
+            {
+                "name": "Edwin",
+                "gender": "Male",
+                "age": 49
+            },
+            {
+                "name": "Janaya",
+                "gender": "Female",
+                "age": 50
+            },
+            {
+                "name": "Clarisse",
+                "gender": "Female",
+                "age": 51
+            }
+        ]
+    },
+    {
+        "type": "tenant",
+        "block": "2XL",
+        "no": 1993,
+        "residents": [
+            {
+                "name": "Charles",
+                "gender": "Male",
+                "age": 52
+            },
+            {
+                "name": "Zacharia",
+                "gender": "Male",
+                "age": 53
+            },
+            {
+                "name": "Juanita",
+                "gender": "Female",
+                "age": 54
+            }
+        ]
+    },
+    {
+        "type": "tenant",
+        "block": "XL",
+        "no": 2000,
+        "residents": [
+            {
+                "name": "Dorine",
+                "gender": "Female",
+                "age": 55
+            },
+            {
+                "name": "Jennette",
+                "gender": "Female",
+                "age": 56
+            },
+            {
+                "name": "Stefa",
+                "gender": "Female",
+                "age": 57
+            },
+            {
+                "name": "Corina",
+                "gender": "Female",
+                "age": 58
+            },
+            {
+                "name": "Ladonna",
+                "gender": "Female",
+                "age": 59
+            }
+        ]
+    },
+    {
+        "type": "tenant",
+        "block": "L",
+        "no": 1995,
+        "residents": [
+            {
+                "name": "Woody",
+                "gender": "Male",
+                "age": 60
+            }
+        ]
+    },
+    {
+        "type": "tenant",
+        "block": "S",
+        "no": 1994,
+        "residents": [
+            {
+                "name": "Tonia",
+                "gender": "Female",
+                "age": 61
+            },
+            {
+                "name": "Courtnay",
+                "gender": "Male",
+                "age": 62
+            }
+        ]
+    },
+    {
+        "type": "tenant",
+        "block": "XL",
+        "no": 1996,
+        "residents": [
+            {
+                "name": "Brooks",
+                "gender": "Male",
+                "age": 63
+            },
+            {
+                "name": "Marika",
+                "gender": "Female",
+                "age": 64
+            },
+            {
+                "name": "Mervin",
+                "gender": "Male",
+                "age": 65
+            },
+            {
+                "name": "Baron",
+                "gender": "Male",
+                "age": 66
+            }
+        ]
+    },
+    {
+        "type": "tenant",
+        "block": "XS",
+        "no": 1993,
+        "residents": [
+            {
+                "name": "Christiano",
+                "gender": "Male",
+                "age": 67
+            },
+            {
+                "name": "Jae",
+                "gender": "Male",
+                "age": 68
+            }
+        ]
+    },
+    {
+        "type": "tenant",
+        "block": "XS",
+        "no": 1998,
+        "residents": [
+            {
+                "name": "Jazmin",
+                "gender": "Female",
+                "age": 69
+            },
+            {
+                "name": "Katharyn",
+                "gender": "Female",
+                "age": 70
+            }
+        ]
+    }
+]
+

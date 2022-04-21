@@ -1,0 +1,32 @@
+.my-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.my-container > div:nth-child(1) {
+
+    border:2px solid  green;
+    border-radius: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+}
+.header{
+    background: green;
+    padding: 15px;
+    height:90px;
+    color: beige;
+    font-family: "Sofia", sans-serif;
+}
+.my-container > div:nth-child(2) {
+
+    border:2px solid  green;
+    border-radius: 10px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.split {
+    height: 500px;
+    width: 50%;
+    padding-top: 20px;
+}
